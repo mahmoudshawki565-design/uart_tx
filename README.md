@@ -89,8 +89,7 @@ Different data patterns were tested with parity enabled and disabled to verify t
 ## Project Files
 
 ```text
-RTL/
+RTL/ 
 Testbench/
-Simulation/
 Synthesis/
 Presentation/
